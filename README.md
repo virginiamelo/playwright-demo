@@ -1,36 +1,35 @@
-# 🧪 Playwright 
+# 🧪 Playwright
 
-Este é um projeto de estudo para praticar automação de testes com [Playwright](https://playwright.dev/) com API REST em Node.js e banco de dados PostgreSQL.
+This is a study project to practice test automation using [Playwright](https://playwright.dev/), with a REST API in Node.js and a PostgreSQL database.
 
+## 📌 About the Project
 
-## 📌 Sobre o Projeto
+The application used for study is **Zombie+**, a fictional web system for managing a catalog of zombie-themed movies and series. The app includes:
 
-A aplicação utilizada para estudo é a Zombie+, sistema fictício web de catálogo de filmes e séries. A aplicação inclui:
+- Front-end in ReactJS  
+- API built with Node.js  
+- JWT Authentication  
+- PostgreSQL database
 
-- Front-end em ReactJS
-- API com Node.js
-- Autenticação JWT
-- Banco de dados PostgreSQL
+## 🚀 Technologies Used
 
-## 🚀 Tecnologias utilizadas
-
-- [Playwright](https://playwright.dev/)
+- Playwright  
 - JavaScript (Node.js)
 
+## ✅ What Will Be Tested
 
-## ✅ O que será testado
+- Interactions with buttons, fields, and alerts  
+- Visual and functional validations  
+- Strategies for dynamic elements  
+- Page Objects and good practices  
+- Cross-browser testing
 
-- Interações com botões, campos e alertas
-- Validações visuais e funcionais
-- Estratégias para elementos dinâmicos
-- Page Objects e boas práticas
-- Testes em múltiplos navegadores
+## 🛠 Local Setup [WIP]
 
-## 🛠 Configuração local [WIP]
+- Database setup  
+- Running the application locally  
+- More test examples and advanced strategies
 
-- Configuração do banco de dados
-- Subida da aplicação local
-- Mais exemplos de testes e estratégias avançadas
+---
 
-
-> ⚠️ Este projeto ainda está em fase inicial de configuração.
+⚠️ This project is still in the early stages of configuration.
