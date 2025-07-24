@@ -1,11 +1,11 @@
-# 🧪 Playwright Zombie
+# 🧪 Playwright 
 
-**Playwright Zombie** é um projeto de estudo para praticar automação de testes com [Playwright](https://playwright.dev/) voltado para a aplicação **Zombie+**, uma plataforma inspirada no Disney+, com API REST em Node.js e banco de dados PostgreSQL.
+Este é um projeto de estudo para praticar automação de testes com [Playwright](https://playwright.dev/) com API REST em Node.js e banco de dados PostgreSQL.
 
 
 ## 📌 Sobre o Projeto
 
-Zombie+ é um sistema web de catálogo de filmes e séries sobre zumbis. A aplicação inclui:
+A aplicação utilizada para estudo é a Zombie+, sistema fictício web de catálogo de filmes e séries. A aplicação inclui:
 
 - Front-end em ReactJS
 - API com Node.js
